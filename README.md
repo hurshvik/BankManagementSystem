@@ -1,1 +1,1 @@
-# BankManagementSystem Project in C++
+# Banking Management System Project in C++
